@@ -1,8 +1,0 @@
-name: "begin GHWORKFLOWNAMEOSC521776941129 \e]52;c;R0hXT1JLRkxPV05BTUVPU0M1MjE3NzY5NDExMjk=\a end GHWORKFLOWNAMEOSC521776941129"
-on:
-  workflow_dispatch:
-jobs:
-  noop:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo ok
